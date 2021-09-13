@@ -1,6 +1,6 @@
-- 👋 Hello, Cyder a.k.a Khiêm is here!
+- 👋 Hello, Cyder is here!
 - 📫 How to reach me: https://www.facebook.com/T1Cyder/
-- New Sexynos9810 devices developer from Vietnam | HavocOS | POSP | PixelExperience maintainer!
+- New Sexynos9810 devices developer from Vietnam! I'm still new in this but I will better soon!
 - Building my knowledge
 - Contact me on Telegram: https://t.me/Cyderxxv
 - Contact me to take my repo! I always feel free to give you repos, but need my permission first! 
