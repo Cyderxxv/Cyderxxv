@@ -3,7 +3,7 @@
 - New Sexynos9810 devices developer from Vietnam! I'm still new in this but I will better soon!
 - Building my knowledge
 - Contact me on Telegram: https://t.me/Cyderxxv
-- Contact me to take my repo! I always feel free to give you repos, but need my permission first! 
+- Unofficialy maintaining: PixelExperience, Project Sakura and ColtOS.
 
 <!---
 CyderVII28x03/CyderVII28x03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
