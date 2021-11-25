@@ -1,5 +1,5 @@
 - 👋 Hello, Cyder is here!
-- 📫 How to reach me: https://www.facebook.com/T1Cyder/
+- 📫 How to reach me: https://www.facebook.com/CyderVII28x03/
 - S9/S9+/N9 Exynos developer from Vietnam! I'm still new in this but I will better soon!
 - Building my knowledge
 - Contact me on Telegram: https://t.me/Cyderxxv
