@@ -1,5 +1,6 @@
 - 👋 Hello, Cyder is here!
-- 21126073 - Vietnam - France affiliate program aka FITUS student.
+- I can speak Vietnamese, French, Japanese, and English, ofc.
+- VNU-HCMUS Student.
 - 📫 How to reach me: https://www.facebook.com/CyderVII28x03/
 - Building my knowledge
 - Contact me on Telegram: https://t.me/Cyderxxv
