@@ -6,6 +6,7 @@
 - Feel free to use all my trees from https://github.com/cyder9810trees ! Please don't fork / import into somewhere, add some commits without proper authorship and made it private, and telling everyone that is your work :). I would really appreciate it.
 - Want to donate me? Buy me a coffee!: https://buymeacoffee.com/Cyderxxv
 - Evolution X - Exynos9810 Official Maintainer & Exynos9810 core team!
+- Using Samsung Galaxy Note 9 (Exynos) 6 / 128. Having a Xiaomi Redmi Note 7 (lavender), but I would call it lavended because the battery is dead xD.
 
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg) 
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
