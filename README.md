@@ -13,3 +13,5 @@
 CyderVII28x03/CyderVII28x03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Cyderxxv)](https://git.io/streak-stats)
