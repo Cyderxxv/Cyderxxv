@@ -4,7 +4,8 @@
 - 📫 How to reach me: https://www.facebook.com/CyderVII28x03/
 - Building my knowledge.
 - Feel free to use all my trees from https://github.com/cyder9810trees ! Please don't fork / import into somewhere, add some commits without proper authorship and made it private, and telling everyone that is your work :). I would really appreciate it.
-- Want to donate me? Donate me now by using Paypal: https://paypal.me/CyderVII28x03. /n
+- Want to donate me? Buy me a coffee!: https://buymeacoffee.com/Cyderxxv
+- Evolution X - Exynos9810 Official Maintainer & Exynos9810 core team!
 
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg) 
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
