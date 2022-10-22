@@ -13,7 +13,6 @@
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 [![Ask Me Anything (No ETA) !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://t.me/Cyderxxv)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
-	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 
 <!---
 CyderVII28x03/CyderVII28x03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
