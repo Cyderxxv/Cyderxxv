@@ -1,5 +1,5 @@
 - 👋 Hello, Cyder is here!
-- I can speak Vietnamese, French, Japanese, and English, ofc.
+- I can speak Vietnamese ofc.
 - Vietnam National University - University of Science Ho Chi Minh City, Information Technology student.
 - 📫 How to reach me: https://www.facebook.com/Cyderxxv/
 - Building my knowledge.
