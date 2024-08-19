@@ -1,11 +1,5 @@
 - 👋 Hello, Cyder is here!
-- I can speak Vietnamese ofc.
-- Vietnam National University - University of Science Ho Chi Minh City, Information Technology student.
-- 📫 How to reach me: https://www.facebook.com/Cyderxxv/
-- Building my knowledge.
-- Feel free to use all my trees from https://github.com/cyder9810trees ! Please don't fork / import into somewhere, add some commits without proper authorship and made it private, and telling everyone that is your work :). I would really appreciate it.
-- Want to donate me? Buy me a coffee!: https://paypal.me/NTCMinh0310
-- DerpFest-AOSP Maintainer for Samsung Galaxy S9/+/Note9 & Exynos9810 core team!
+
 
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg) 
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
